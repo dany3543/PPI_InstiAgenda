@@ -237,6 +237,7 @@
 
 
 
-Walter Adrián Daniel Alverto Suaza
+-Walter Adrián
+-Daniel Alverto Suaza
 
 
